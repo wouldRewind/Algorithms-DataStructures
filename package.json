@@ -4,7 +4,7 @@
   "description": "Algorithms & Data structures implementation",
   "main": "mergeSort.js",
   "scripts": {
-    "test": "mocha ./mergeSort/mergeSort.js"
+    "test": "mocha wayToTheFile"
   },
   "repository": {
     "type": "git",
